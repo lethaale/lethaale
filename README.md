@@ -2,7 +2,7 @@
 
 # Lethale
 
-### Web3 CTO & full-stack engineer · Solidity · Ruby on Rails · available for freelance/contract work (remote)
+### Web3 CTO & full-stack engineer · Solidity · Ruby on Rails · available part-time for freelance/contract work (remote)
 
 [![Email](https://img.shields.io/badge/Email-lethale%40aura.money-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lethale@aura.money)
 [![X](https://img.shields.io/badge/X-%40LethaleDotAura-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LethaleDotAura)
@@ -11,7 +11,7 @@
 
 ## About
 
-I am a Web3 CTO and full-stack engineer with over 15 years of professional software experience. My work centers on production trading and prediction-market platforms, built end to end: mobile applications, wallet infrastructure, smart contracts, and backend systems. Core languages are Ruby, Python, TypeScript/JavaScript, Solidity, and SQL; the underlying skill set generalizes readily to whatever stack a project requires. I also work extensively with LLM APIs, agentic systems, and AI-assisted engineering workflows, and I teach and mentor on Solidity and Ruby on Rails. Available for freelance and contract engagements across the stack, with particular depth in Web3.
+I am a Web3 CTO and full-stack engineer with over 15 years of professional software experience. My work centers on production trading and prediction-market platforms, built end to end: mobile applications, wallet infrastructure, smart contracts, and backend systems. Core languages are Ruby, Python, TypeScript/JavaScript, Solidity, and SQL; the underlying skill set generalizes readily to whatever stack a project requires. I also work extensively with LLM APIs, agentic systems, and AI-assisted engineering workflows, and I teach and mentor on Solidity and Ruby on Rails. As an active CTO currently shipping Aura and Perps.fun, I take on freelance and contract engagements part-time, alongside that work, with particular depth in Web3.
 
 ## Current work
 
@@ -57,7 +57,7 @@ I am a Web3 CTO and full-stack engineer with over 15 years of professional softw
 
 ## Engagements
 
-I take on freelance and contract engagements in Web3 product development (contracts through application), trading and DeFi integrations (Hyperliquid, Polymarket, on-chain wallet infrastructure), Ruby on Rails backends, and cross-platform mobile (React Native / Expo). For inquiries:
+I take on freelance and contract engagements in Web3 product development (contracts through application), trading and DeFi integrations (Hyperliquid, Polymarket, on-chain wallet infrastructure), Ruby on Rails backends, and cross-platform mobile (React Native / Expo). Availability is part-time, alongside ongoing work as CTO of Aura and Perps.fun, so I'm best suited to well-scoped projects, integrations, and advisory work. For inquiries:
 
 [![Email](https://img.shields.io/badge/Email-lethale%40aura.money-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lethale@aura.money)
 [![X](https://img.shields.io/badge/X-%40LethaleDotAura-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LethaleDotAura)
