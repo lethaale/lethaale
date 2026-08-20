@@ -42,6 +42,8 @@ I am a Web3 CTO and full-stack engineer with over 15 years of professional softw
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **AI & Agents**
 ![Anthropic API](https://img.shields.io/badge/Anthropic%20API-D97757?style=for-the-badge)
@@ -61,6 +63,10 @@ I take on freelance and contract engagements in Web3 product development (contra
 
 [![Email](https://img.shields.io/badge/Email-lethale%40aura.money-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lethale@aura.money)
 [![X](https://img.shields.io/badge/X-%40LethaleDotAura-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LethaleDotAura)
+
+## Outside of work
+
+Away from the keyboard, I play saxophone, climb, and practice acroyoga.
 
 ---
 
