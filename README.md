@@ -42,7 +42,7 @@ Most of that earlier code still lives on my old GitHub accounts — I'll merge i
 
 Combined public contributions per calendar year. 2026 is partial (through September).
 
-![Yearly contributions with agents marker](contributions.png)
+![Yearly contributions with markers Bachelor 2015, Master 2019, AI 2023, agents 2026; locations Turin 2015–2019, Berlin 2020–2022, Remote 2023–now](contributions.png)
 
 ## Engagements
 
