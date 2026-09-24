@@ -2,22 +2,34 @@
 
 # Lethale
 
-### Web3 CTO & full-stack engineer · Solidity · Ruby on Rails · available part-time for freelance/contract work (remote)
+### Web3 CTO & full-stack engineer · Solidity · Ruby on Rails · open to part-time freelance/contract work (remote)
 
 [![Email](https://img.shields.io/badge/Email-lethale%40aura.money-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lethale@aura.money)
-[![X](https://img.shields.io/badge/X-%40LethaleDotAura-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LethaleDotAura)
+[![X](https://img.shields.io/badge/X-%400xlethale-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xlethale)
 
 </div>
 
 ## About
 
-I am a Web3 CTO and full-stack engineer with over 15 years of professional software experience. My work centers on production trading and prediction-market platforms, built end to end: mobile applications, wallet infrastructure, smart contracts, and backend systems. Core languages are Ruby, Python, TypeScript/JavaScript, Solidity, and SQL; the underlying skill set generalizes readily to whatever stack a project requires. I also work extensively with LLM APIs, agentic systems, and AI-assisted engineering workflows, and I teach and mentor on Solidity and Ruby on Rails. As an active CTO currently shipping Aura and Perps.fun, I take on freelance and contract engagements part-time, alongside that work, with particular depth in Web3.
+I'm a CTO and full-stack engineer, writing software professionally since 2010. Most of my time these days is trading and prediction-market infra: mobile apps, wallets, smart contracts, backends — the whole stack, end to end.
+
+I work mainly in Ruby, Python, TypeScript, Solidity, and SQL, but I've jumped around enough stacks that picking up a new one isn't an issue. I also build a lot with LLMs and agents, and I mentor on Solidity and Rails.
+
+Right now I'm CTO at Mog, Perps.fun, and League.fun. On the side I take on part-time freelance/contract work, mostly Web3.
 
 ## Current work
 
-**[Aura](https://aura.money)** — Cross-platform trading application (iOS, Android, desktop) unifying Hyperliquid and Polymarket behind a single wallet and login: perpetuals, spot, and prediction markets, with Apple Pay / Google Pay onramps and BTC/ETH/SOL deposits. Chief Technology Officer. → [github.com/AuraDotMoney](https://github.com/AuraDotMoney)
+**[Mog](https://mog.xyz)** — Perps with no market makers. Long or short stocks, memes, and more with up to 1,000x leverage, oracle-priced, no order book, no funding fees. Chief Technology Officer. → [docs.mog.xyz](https://docs.mog.xyz/)
 
-**[Perps.fun](https://perps.fun)** — Launchpad for perpetual futures markets on Hyperliquid, built on the HIP-3 standard, with SEDA oracle integration, crowdfunded market seeding, and creator fee-sharing. Chief Technology Officer. → [github.com/Perps-fun](https://github.com/Perps-fun)
+**[Perps.fun](https://perps.fun)** — Launchpad for perp markets on Hyperliquid (HIP-3), with SEDA oracles, crowdfunded market seeding, and fee-sharing for creators. Chief Technology Officer. → [github.com/Perps-fun](https://github.com/Perps-fun)
+
+**[League.fun](https://league.fun)** — Fantasy sports, but for crypto. Draft a team of coins, go head-to-head with other players, win USDC on Base. Chief Technology Officer.
+
+## No longer maintained
+
+**[Aura](https://aura.money)** — Mobile + desktop trading app that put Hyperliquid and Polymarket behind one wallet and login: perps, spot, and prediction markets, with Apple Pay / Google Pay onramps and BTC/ETH/SOL deposits. I was CTO. → [github.com/AuraDotMoney](https://github.com/AuraDotMoney)
+
+**[BeraNames](https://www.beranames.com/)** — Name service on Berachain. Claim a `.🐻⛓️` name as an NFT, point it at your wallet, build a Berachain ID around it. I built it; it's not maintained anymore.
 
 ## Technical skills
 
@@ -59,10 +71,10 @@ I am a Web3 CTO and full-stack engineer with over 15 years of professional softw
 
 ## Engagements
 
-I take on freelance and contract engagements in Web3 product development (contracts through application), trading and DeFi integrations (Hyperliquid, Polymarket, on-chain wallet infrastructure), Ruby on Rails backends, and cross-platform mobile (React Native / Expo). Availability is part-time, alongside ongoing work as CTO of Aura and Perps.fun, so I'm best suited to well-scoped projects, integrations, and advisory work. For inquiries:
+I do part-time freelance and contract work next to the CTO role — mostly Web3 builds end to end (contracts up through app), trading and DeFi integrations (Hyperliquid, Polymarket, wallet infra), Rails backends, and React Native / Expo mobile. I work best on well-scoped projects, integrations, and advisory. For inquiries:
 
 [![Email](https://img.shields.io/badge/Email-lethale%40aura.money-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lethale@aura.money)
-[![X](https://img.shields.io/badge/X-%40LethaleDotAura-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LethaleDotAura)
+[![X](https://img.shields.io/badge/X-%400xlethale-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xlethale)
 
 ## Outside of work
 
