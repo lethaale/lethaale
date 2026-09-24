@@ -16,9 +16,11 @@ I work mainly in Ruby, Python, TypeScript, Solidity, and SQL, but I've jumped ar
 
 Right now I'm CTO at Mog, Perps.fun, and League.fun. On the side I take on part-time freelance/contract work, mostly Web3.
 
+**Stack:** Solidity · Ruby on Rails · TypeScript · Python · SQL · React Native / Expo · Vue / Nuxt · Hyperliquid · EVM
+
 ## Current work
 
-**[Mog](https://mog.xyz)** — Perps with no market makers. Long or short stocks, memes, and more with up to 1,000x leverage, oracle-priced, no order book, no funding fees. Chief Technology Officer. → [docs.mog.xyz](https://docs.mog.xyz/)
+**[Mog](https://mog.xyz)** — Perps with no market makers. Long or short stocks, memes, and more with up to 1,000x leverage, oracle-priced, no order book, no funding fees. Chief Technology Officer. → [app](https://app.mog.xyz) · [docs](https://docs.mog.xyz/)
 
 **[Perps.fun](https://perps.fun)** — Launchpad for perp markets on Hyperliquid (HIP-3), with SEDA oracles, crowdfunded market seeding, and fee-sharing for creators. Chief Technology Officer. → [github.com/Perps-fun](https://github.com/Perps-fun)
 
@@ -33,7 +35,7 @@ Right now I'm CTO at Mog, Perps.fun, and League.fun. On the side I take on part-
 ## Before Web3
 
 - Founder at a startup (2015–2019) — started Rails backend, ended up full-stack plus everything else a startup throws at you. Ran the main product on Vue/Nuxt + Rails API.
-- Rails + Vue in Berlin — backends, video infra, Heroku plumbing.
+- Rails + Vue in Berlin (2020–2022) — backends, video infra, Heroku plumbing.
 - CS bachelor's + master's in Data Science. Thesis on patent co-citation networks.
 
 Most of that earlier code still lives on my old GitHub accounts — I'll merge it over here when I get the time.
