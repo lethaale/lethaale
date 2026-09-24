@@ -32,15 +32,13 @@ Right now I'm CTO at Mog, Perps.fun, and League.fun. On the side I take on part-
 
 ## Before Web3
 
-Earlier work lives mostly on my old accounts ([Alagaesia93](https://github.com/Alagaesia93), [alessandromacagno](https://github.com/alessandromacagno)):
-
-- Founder at e-Virdis (2015–2019) — started Rails backend, ended up full-stack plus everything else a startup throws at you. Ran the eLegacy project on Vue/Nuxt + Rails API.
-- Rails + Vue in Berlin, including a stint at Vaha — backends, video infra (TokBox), Heroku/ffmpeg plumbing.
-- CS bachelor's (Turin) + master's in Data Science (Pisa). Thesis turned into [patent_co_citation_network](https://github.com/Alagaesia93/patent_co_citation_network), still my most-starred old repo.
+- Founder at a startup (2015–2019) — started Rails backend, ended up full-stack plus everything else a startup throws at you. Ran the main product on Vue/Nuxt + Rails API.
+- Rails + Vue in Berlin — backends, video infra, Heroku plumbing.
+- CS bachelor's + master's in Data Science. Thesis on patent co-citation networks.
 
 ## Contributions
 
-Combined public contributions across my three accounts, per calendar year. 2026 is partial (through September).
+Combined public contributions per calendar year. 2026 is partial (through September).
 
 <svg width="700" height="210" viewBox="0 0 700 210" role="img" aria-label="Yearly GitHub contributions bar chart">
   <line x1="40" y1="10" x2="40" y2="160" stroke="#555" stroke-width="1"/>
@@ -109,7 +107,7 @@ Combined public contributions across my three accounts, per calendar year. 2026 
   </g>
   <line x1="574" y1="10" x2="574" y2="160" stroke="#d29922" stroke-width="1.5" stroke-dasharray="5 3"/>
   <text x="580" y="22" font-family="sans-serif" font-size="11" fill="#d29922">started using agents, Feb 2026</text>
-  <text x="40" y="190" font-family="sans-serif" font-size="10" fill="#666">lethaale + Alagaesia93 + alessandromacagno · GitHub contribution calendars</text>
+  <text x="40" y="190" font-family="sans-serif" font-size="10" fill="#666">combined GitHub contribution calendars</text>
 </svg>
 
 ## Technical skills
