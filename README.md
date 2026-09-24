@@ -48,7 +48,7 @@ Combined public contributions per calendar year. 2026 is partial (through Septem
 
 ## Engagements
 
-I do part-time freelance and contract work next to the CTO role — mostly Web3 builds end to end (contracts up through app), trading and DeFi integrations (Hyperliquid, Polymarket, wallet infra), Rails backends, and React Native / Expo mobile. I work best on well-scoped projects, integrations, and advisory. Reach out on X:
+I do part-time freelance and contract work next to the CTO role — mostly Web3 builds end to end (contracts up through app), trading and DeFi integrations (Hyperliquid, Polymarket, wallet infra), Rails backends, and React Native / Expo mobile. I work best on well-scoped projects, integrations, and advisory. I'm anon here, but happy to share LinkedIn, full CV, and references with serious clients under NDA. Reach out on X:
 
 [![X](https://img.shields.io/badge/X-%400xlethale-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xlethale)
 
